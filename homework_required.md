@@ -17,9 +17,9 @@
 ### Classes 4 & 5
 - [ ] **Finish:** Simple Site Lab (HTML and CSS). (Required)
 - [ ] **Complete:** Three layouts from class 5 (HTML and CSS: Layout 1, Layout 2, Layout 3). (Required)
-    - [ ] ![Layout 1](https://communitytaught.org/img/resources/layout1.png)
-    - [ ] ![Layout 2](https://communitytaught.org/img/resources/layout2.png)
-    - [ ] ![Layout 3](https://communitytaught.org/img/resources/layout3.png)
+    - [ ] [Layout 1](https://communitytaught.org/img/resources/layout1.png)
+    - [ ] [Layout 2](https://communitytaught.org/img/resources/layout2.png)
+    - [ ] [Layout 3](https://communitytaught.org/img/resources/layout3.png)
 
 ### Class 6
 - [ ] **Make:** _15 minutes of pain_ responsive (use floats and 3 media queries). (Required)
@@ -27,11 +27,11 @@
 ### Classes 8 - 11
 - [ ] **Complete:** Three layouts from class (with CSS this time: BBC, Khan Academy, and TechCrunch). (Required)
 - [ ] **Do:** The Level Ground & Source layouts. (Required)
-    - [ ] ![Level Ground](https://communitytaught.org/img/resources/level-ground.png)
-    - [ ] ![Source](https://communitytaught.org/img/resources/source.png)
+    - [ ] [Level Ground](https://communitytaught.org/img/resources/level-ground.png)
+    - [ ] [Source](https://communitytaught.org/img/resources/source.png)
 - [ ] **Do:** Restaurant & Hair Salon layouts. (Required)
-    - [ ] ![Restaurant](https://communitytaught.org/img/resources/restaurant.png)
-    - [ ] ![Hair Salon](https://communitytaught.org/img/resources/hair-salon.png)
+    - [ ] [Restaurant](https://communitytaught.org/img/resources/restaurant.png)
+    - [ ] [Hair Salon](https://communitytaught.org/img/resources/hair-salon.png)
 
 ### Classes 12 - 14
 - [x] **Read:** JavaScript.info _Variables_ and do the tasks. (Required)
