@@ -6,13 +6,13 @@
 ## All Homework
 
 ### Class 1
-- [ ] **Complete:** Coursera _Learning How To Learn_ and submit a screenshot of the completion page. (Required)
+- [x] **Complete:** Coursera _Learning How To Learn_ and submit a screenshot of the completion page. (Required)
 
 ### Class 2
-- [ ] **Build HTML for BBC Website:** It doesn't need to look like the image, just the HTML structure (no CSS). (Required)
+- [x] **Build HTML for BBC Website:** It doesn't need to look like the image, just the HTML structure (no CSS). (Required)
 
 ### Class 3
-- [ ] **Finish:** Khan Academy and TechCrunch from class 3, HTML only. (Required)
+- [x] **Finish:** Khan Academy and TechCrunch from class 3, HTML only. (Required)
 
 ### Classes 4 & 5
 - [ ] **Finish:** Simple Site Lab (HTML and CSS). (Required)
@@ -34,16 +34,16 @@
     - [ ] ![Hair Salon](https://communitytaught.org/img/resources/hair-salon.png)
 
 ### Classes 12 - 14
-- [ ] **Read:** JavaScript.info _Variables_ and do the tasks. (Required)
-- [ ] **Read:** JavaScript.info _Function Basics_ and do the tasks. (Required)
-- [ ] **Read:** JavaScript.info _Function Expressions_ and do the tasks. (Required)
-- [ ] **Read:** JavaScript.info _Arrow Function Basics_ and do the tasks. (Required)
+- [x] **Read:** JavaScript.info _Variables_ and do the tasks. (Required)
+- [x] **Read:** JavaScript.info _Function Basics_ and do the tasks. (Required)
+- [x] **Read:** JavaScript.info _Function Expressions_ and do the tasks. (Required)
+- [x] **Read:** JavaScript.info _Arrow Function Basics_ and do the tasks. (Required)
 
 ### Class 15
 - [ ] **Comment out:** Your JS code from class (picker, calculator, etc.), type it all again without looking, peek if you have to. Repeat until you don’t need to peek. Delete your JS entirely and do it again, then do it again but change something and submit your changes. (Required)
 
 ### Classes 16 - 18
-- [ ] **Set up:** Your portfolio. (Required)
+- [x] **Set up:** Your portfolio. (Required)
 - [ ] **Draft:** Your proposal/contract. (Required)
 
 ### Classes 19 - 21
@@ -55,11 +55,14 @@
 
 ### Classes 26 & 27
 - [ ] **Make:** CocktailDB API work with spaces between names. (Required)
-- [ ] **Find:** Three APIs from the list and build three simple apps using them. (Required)
+- [ ] **Find:** Three APIs from this list and build three simple apps using them. (Required)
+    - [x] QR Monkey
+    - [x] Google Calendar
+    - [ ] API 3 
 
 ### Class 31
 - [ ] **Get a paid client**, volunteer, or contribute to open-source software. (Required)
-  - [ ] Or make a significant contribution to an open source project
+  - [x] Or make a significant contribution to an open source project
 
 ### Classes 39 & 40
 - [ ] **Make your own API** and push to Heroku. (Required)
