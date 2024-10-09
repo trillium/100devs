@@ -70,12 +70,12 @@
 ### Classes 41 - 43
 - [ ] **Work with a group** to comment every line of the to-do list and submit a pull request with your completed code and comments.
 
-# Classes 44 - 49
+## Classes 44 - 49
 - [ ] *Work in a group to build out a lecture on MVC* - Class 46 (Required)
 
-# Classes 50 & 51
+## Classes 50 & 51
 - [ ] *Work in a group to improve the todo list* - Class 50 (Required)
 
-# Class 55
+## Class 55
 - [ ] *Work together with a group to add comments to Binary Upload Boom and submit a pull request with your completed code.* (Required)
   **Due**: Class 56
